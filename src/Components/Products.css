@@ -1,0 +1,42 @@
+.sortby {
+    margin-top: 45px;
+    font-weight: bold;
+    padding-left: 60vw;
+}
+
+.img1 {
+    cursor: pointer;
+    padding-right: 20px;
+}
+
+.imgp1 {
+    font-weight: bold;
+}
+
+.imgp2 {
+    font-size: small;
+    
+}
+
+
+
+.imgspan {
+    font-weight: bold;
+}
+
+.imgspan1{
+    text-decoration: line-through 2px;
+}
+
+.imgspan2 {
+    color: orangered;
+}
+
+
+.row1 {
+    width: 59vw;
+    height: auto;
+    float: right;
+    padding-top: 15px;
+    display: flex;
+}
